@@ -10,7 +10,7 @@ services:
       - ./data:/home/jovyan/work/data:rw
     ports:
       #jupyter
-      - 80:8888
+      - 8888:8888
     tty: true
     entrypoint: ["jupyter", "notebook", "--notebook-dir=/home/jovyan/work", "--ip='0.0.0.0'", "--allow_origin='*'", "--allow-root", "--port=8888", "--no-browser", "--NotebookApp.token='nmswolfmann'",]
 
