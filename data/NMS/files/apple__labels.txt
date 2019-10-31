@@ -1,0 +1,45 @@
+{
+   "image_filename": "apple.jpeg",
+   "complete": null,
+   "labels": [
+      {
+         "label_type": "box",
+         "label_class": null,
+         "centre": {
+            "x": 135.39196297883848,
+            "y": 80.68770288678394
+         },
+         "size": {
+            "x": 108.67044215335667,
+            "y": 109.88463703775176
+         },
+         "object_id": 4
+      },
+      {
+         "label_type": "box",
+         "label_class": null,
+         "centre": {
+            "x": 135.69551169993727,
+            "y": 81.901897771179
+         },
+         "size": {
+            "x": 121.41948843950469,
+            "y": 97.74268819380127
+         },
+         "object_id": 5
+      },
+      {
+         "label_type": "box",
+         "label_class": null,
+         "centre": {
+            "x": 136.60615786323353,
+            "y": 77.95576439689509
+         },
+         "size": {
+            "x": 100.17107796259135,
+            "y": 122.63368332389975
+         },
+         "object_id": 6
+      }
+   ]
+}

@@ -1,0 +1,149 @@
+{
+   "image_filename": "car_london.jpg",
+   "complete": null,
+   "labels": [
+      {
+         "label_type": "box",
+         "label_class": null,
+         "centre": {
+            "x": 167.39999389648438,
+            "y": 217.36666870117188
+         },
+         "size": {
+            "x": 290,
+            "y": 113
+         },
+         "object_id": 1
+      },
+      {
+         "label_type": "box",
+         "label_class": null,
+         "centre": {
+            "x": 167.39999389648438,
+            "y": 220.86666870117188
+         },
+         "size": {
+            "x": 308,
+            "y": 86
+         },
+         "object_id": 2
+      },
+      {
+         "label_type": "box",
+         "label_class": null,
+         "centre": {
+            "x": 166.89999389648438,
+            "y": 218.86666870117188
+         },
+         "size": {
+            "x": 299,
+            "y": 104
+         },
+         "object_id": 3
+      },
+      {
+         "label_type": "box",
+         "label_class": null,
+         "centre": {
+            "x": 168.89999389648438,
+            "y": 223.36666870117188
+         },
+         "size": {
+            "x": 317,
+            "y": 73
+         },
+         "object_id": 4
+      },
+      {
+         "label_type": "box",
+         "label_class": null,
+         "centre": {
+            "x": 389.3999938964844,
+            "y": 197.86666870117188
+         },
+         "size": {
+            "x": 58,
+            "y": 88
+         },
+         "object_id": 6
+      },
+      {
+         "label_type": "box",
+         "label_class": null,
+         "centre": {
+            "x": 388.3999938964844,
+            "y": 200.36666870117188
+         },
+         "size": {
+            "x": 74,
+            "y": 79
+         },
+         "object_id": 7
+      },
+      {
+         "label_type": "box",
+         "label_class": null,
+         "centre": {
+            "x": 391.8999938964844,
+            "y": 200.36666870117188
+         },
+         "size": {
+            "x": 49,
+            "y": 105
+         },
+         "object_id": 8
+      },
+      {
+         "label_type": "box",
+         "label_class": null,
+         "centre": {
+            "x": 531.4000091552734,
+            "y": 214.86666870117188
+         },
+         "size": {
+            "x": 154.00003051757812,
+            "y": 112
+         },
+         "object_id": 9
+      },
+      {
+         "label_type": "box",
+         "label_class": null,
+         "centre": {
+            "x": 528.4000091552734,
+            "y": 212.86666870117188
+         },
+         "size": {
+            "x": 168.00003051757812,
+            "y": 88
+         },
+         "object_id": 10
+      },
+      {
+         "label_type": "box",
+         "label_class": null,
+         "centre": {
+            "x": 531.9000091552734,
+            "y": 211.86666870117188
+         },
+         "size": {
+            "x": 165.00003051757812,
+            "y": 102
+         },
+         "object_id": 11
+      },
+      {
+         "label_type": "box",
+         "label_class": null,
+         "centre": {
+            "x": 528.4000091552734,
+            "y": 215.36666870117188
+         },
+         "size": {
+            "x": 182.00003051757812,
+            "y": 81
+         },
+         "object_id": 12
+      }
+   ]
+}
